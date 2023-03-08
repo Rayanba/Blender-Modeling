@@ -7,4 +7,9 @@
 ![pic5](pics/4.png)
 ![pic6](pics/5.png)
 ![pic7](pics/6.png)
+![pic8](pics/7.png)
+![pic9](pics/8.png)
+![pic10](pics/9.png)
+
+
 
