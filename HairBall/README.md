@@ -8,6 +8,10 @@
 ![pic6](pics/6.png)
 ![pic7](pics/7.png)
 ![pic8](pics/8.png)
+![pic9](pics/9.png)
+![pic10](pics/10.png)
+![pic11](pics/11.png)
+![pic12](pics/12.png)
 
 
 
